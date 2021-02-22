@@ -1,8 +1,8 @@
-# Starter kit template
+# Call for Code Solution Starter - Clean Water and Sanitation
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack) [![Website](https://img.shields.io/badge/View-Website-blue)](https://code-and-response.github.io/Project-Sample/)
 
-A template for Call for Code starter kits which help understand a real-world challenge under the Climate Change theme in 2021. These templates can be used to capture the output of the Design Thinking workshop in February and demonstrate a potential technology solution for that problem.
+Three billion people throughout the world still lack access to safely managed water and sanitation services and basic handwashing facilities at home, which are critical to preventing the spread of COVID-19 and other diseases. In least developed countries, nearly three-quarters of the population lack access to clean water and sanitation services.
 
 ## Contents
 
@@ -101,11 +101,21 @@ These are the go-to documents for measuring impact and progress against the key 
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
-## Authors
+## Contributors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* Mateo Bozzini
+* Muralidhar Chavan
+* Christoph Gorder - Expert
+* Romeo Kienzler
+* Mark Meiklejohn
+* David O'Hara
+* Karla Readshaw
+* Niraj Swarmi - Expert
+* John Walicki
 
-See also the list of [contributors](https://github.com/Call-for-Code/Starter-Kit-Template-2021/graphs/contributors) who participated in the creation of this starter kit.
+<a href="https://github.com/Call-for-Code/Solution-Starter-Kit-Water-2021/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Solution-Starter-Kit-Water-2021" />
+</a>
 
 ## License
 
@@ -113,4 +123,5 @@ This starter kit is licensed under the Apache 2 License - see the [LICENSE](LICE
 
 ## Acknowledgments
 
-* Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+* [Charity Water](https://www.charitywater.org/global-water-crisis)
+* [Nature Conservancy](https://www.nature.org/en-us/what-we-do/our-priorities/provide-food-and-water-sustainably/)
