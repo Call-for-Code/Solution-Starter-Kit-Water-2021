@@ -28,7 +28,19 @@ Schools and teachers can continue to engage with their students through virtual 
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+Vision:
+To provide a centralised means to access and record
+- Geo-location of sustainable water sources
+- Simplify coordination and funding for water construction projects
+- Educational tools to support water sustainability and clean water access
+- Enable transparent water usage, cleanliness results and site to site comparison
+- Access to plain language case studies and legislation
+
+
+Method:
+By devising and implementing an omni-channel API for data collection and dissemination, we can encourage optimal choices by consumers, local government and educate to incentive water sustainability.
+
+We are initially focusing on the development of a starter kit that will enable these channels to be developed to their fullest potential.
 
 #### Hill 1
 
