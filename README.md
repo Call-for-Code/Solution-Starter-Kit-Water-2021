@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack) [![Website](https://img.shields.io/badge/View-Website-blue)](https://code-and-response.github.io/Project-Sample/)
 
+Use this starter kit to understand how to technology can improve access to clean drinking water, reduce water waste, protect natural resources and more. Jump-start your own solution with tools and resources from our experts.
+
 Three billion people throughout the world still lack access to safely managed water and sanitation services and basic handwashing facilities at home, which are critical to preventing the spread of COVID-19 and other diseases. In least developed countries, nearly three-quarters of the population lack access to clean water and sanitation services.
 
 ## Contents
