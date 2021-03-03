@@ -4,7 +4,7 @@
 
 Use this starter kit to understand how to technology can improve access to clean drinking water, reduce water waste, protect natural resources and more. Jump-start your own solution with tools and resources from our experts.
 
-Three billion people throughout the world still lack access to safely managed water and sanitation services and basic handwashing facilities at home, which are critical to preventing the spread of COVID-19 and other diseases. In least developed countries, nearly three-quarters of the population lack access to clean water and sanitation services.
+Water is the natural resource that is most threatened by climate change and a prerequisite for life on earth. Three billion people throughout the world still lack access to safely managed water and sanitation services and basic handwashing facilities at home, which are critical to preventing the spread of COVID-19 and other diseases. In least developed countries, nearly three-quarters of the population lack access to clean water and sanitation services.
 
 ## Contents
 
@@ -22,25 +22,23 @@ Three billion people throughout the world still lack access to safely managed wa
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time,  keeping them engaged, entertained, and on top of their education is important.
+tbd
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+tbd
 
 ### The idea
 
-Vision:
-To provide a centralised means to access and record
+To encourage optimal water choices by consumers and local governments and incentivize water sustainability, we propose devising and implementing an omnichannel API for water data collection and dissemination.
+
+This would be a centralized way to access and record:
+
 - Geo-location of sustainable water sources
 - Simplify coordination and funding for water construction projects
 - Educational tools to support water sustainability and clean water access
 - Enable transparent water usage, cleanliness results and site to site comparison
 - Access to plain language case studies and legislation
-
-
-Method:
-By devising and implementing an omni-channel API for data collection and dissemination, we can encourage optimal choices by consumers, local government and educate to incentive water sustainability.
 
 We are initially focusing on the development of a starter kit that will enable these channels to be developed to their fullest potential.
 
@@ -129,53 +127,51 @@ You can create a solution based on the proposed solution architecture above by e
 
 ### Resources
 
+#### Mapping APIs
+
+- [HERE Technologies API](https://developer.here.com)
+- [Draw GeoJSON maps](http://geojson.io) 
+- [Collection of zip code boundrary files for each of the 50 US states](https://github.com/OpenDataDE/State-zip-code-GeoJSON)
+
 #### Artificial intelligence
 
 Use AI to create apps that accelerate, enhance, and scale the human experience.
 
 * [Link 1](https://developer.ibm.com/callforcode/technical-library/)
-* [Link 2](https://developer.ibm.com/callforcode/technical-library/)
-* [Link 3](https://developer.ibm.com/callforcode/technical-library/)
 
 #### Data science
 
 Analyze structured and unstructured data to extract knowledge and insights related to urgent issues.
 
 * [Link 1](https://developer.ibm.com/callforcode/technical-library/)
-* [Link 2](https://developer.ibm.com/callforcode/technical-library/)
-* [Link 3](https://developer.ibm.com/callforcode/technical-library/)
 
 #### Internet of Things
 
 Collect and analyze device sensor data to take corrective or preventative action automatically.
 
-* [Link 1](https://developer.ibm.com/callforcode/technical-library/)
-* [Link 2](https://developer.ibm.com/callforcode/technical-library/)
-* [Link 3](https://developer.ibm.com/callforcode/technical-library/)
+* [Integrate Watson IoT with HERE Tracking](https://developer.ibm.com/tutorials/connect-watson-iot-here-tracking-manage-track-devices-real-time/)
 
 #### Platform development
 
 Identify the right environment, software, and runtime to power and scale your solution.
 
 * [Link 1](https://developer.ibm.com/callforcode/technical-library/)
-* [Link 2](https://developer.ibm.com/callforcode/technical-library/)
-* [Link 3](https://developer.ibm.com/callforcode/technical-library/)
 
 #### Data sets
 
 These public data sets provide information on the problem.
 
-* [Link 1](https://developer.ibm.com/callforcode/technical-library/)
-* [Link 2](https://developer.ibm.com/callforcode/technical-library/)
-* [Link 3](https://developer.ibm.com/callforcode/technical-library/)
+- [USGS Watershed maps](https://waterdata.usgs.gov/blog/nldi-intro/)
+- [Aquagenuity API provides water quality reports for many USA ZipCodes](https://aquagenuity.com/drinking-water-database/drinking-water-database)
+- [](https://github.com/awesomedata/awesome-public-datasets)
+- [](https://www.nccs.nasa.gov/services/data-collections)
+- [](http://www.fao.org/aquastat/statistics/query/index.html) 
 
 #### NGO documents
 
 These are the go-to documents for measuring impact and progress against the key issue.
 
 * [Link 1](https://developer.ibm.com/callforcode/technical-library/)
-* [Link 2](https://developer.ibm.com/callforcode/technical-library/)
-* [Link 3](https://developer.ibm.com/callforcode/technical-library/)
 
 ## Contributing
 
