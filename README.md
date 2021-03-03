@@ -44,69 +44,35 @@ We are initially focusing on the development of a starter kit that will enable t
 
 #### Hill 1
 
-A community leader/resident can organize community events and broadcast emergency information based on geo-location data.(Nextdoor for clean water and sanitation).
-
-- Verification of identity & community residency
-- Badge system based on number of events held/organized
-- Way to measure impact by event (attendees, sanitation goals)
+![A community leader or resident can organize community events and broadcast emergency information based on geo-location data.](assets/hill_1.png?raw=true)
 
 #### Hill 2
 
-A community leader can coordinate and fund a construction project in less than 72 hours.
-
-- Data source of approved contractors, experts & reviews
-- Workflow to manage requisitions
-- Means to add data
+![A community leader can coordinate and fund a construction project in less than 72 hours.](assets/hill_2.png?raw=true)
 
 #### Hill 3
 
-A community leader can find verified clean sources of water near to them in one place in near real time.
-
-- GPS Location Data for water sources relative to user location
-- Data source to manage GPS data
-- API to access data
+![A community leader can find verified clean sources of water near to them in one place in near real time.](assets/hill_3.png?raw=true)
 
 #### Hill 4
 
-A community leader can track/compare water sanitation results against historical trends + nearby communities to drive a ~50% reduction in water illness related hospitalizations.
-
-- Water analysis technology (IOT)
-Track & trace 
-Publicity of results & water source to report mapping
-Pollution source remediation & containment
+![A community leader can track/compare water sanitation results against historical trends + nearby communities to drive a ~50% reduction in water illness related hospitalizations.](assets/hill_4.png?raw=true)
 
 #### Hill 5
 
-A teacher can run and manage a challenge program that both educates students on clean water access & inspires future change in one platform.
-
-- Gamification & Badging
-- Embedded Virtual Whiteboard
-- Technology to test clean water
-- Repository for clean water resources & assessment
-- Connect with other communities & learn from water use experiences
+![A teacher can run and manage a challenge program that both educates students on clean water access & inspires future change in one platform.](assets/hill_5.png?raw=true)
 
 #### Hill 6
 
-A resident can assess their water usage and make more informed decisions to prioritize most essential needs & decrease water waste. 
-
-- Maps of surface water, aquifers, rainfall, watersheds relating to user location
-- Lab test results of water quality upstream & downstream
-- Water flow rate sensors to monitor household irrigation
+![A resident can assess their water usage and make more informed decisions to prioritize most essential needs & decrease water waste.](assets/hill_6.png?raw=true)
 
 #### Hill 7
 
-A researcher can track rainwater levels so they can derive insights and make recommendations to communities and policy makers in a fraction of the time.
-
-- Sensor Data
-- Automated analytical analysis
-- Historic data on local rainfall
-- Historic comparison of color of surface water over time from satellite imagery
-- Rainfall forecast
+![A researcher can track rainwater levels so they can derive insights and make recommendations to communities and policy makers in a fraction of the time.](assets/hill_7.png?raw=true)
 
 #### Hill 8
 
-Community advocacy groups can search and read legal case studies and legislation in plain language terms. 
-
+![Community advocacy groups can search and read legal case studies and legislation in plain language terms.](assets/hill_8.png?raw=true)
 
 ## Demo video
 
