@@ -30,6 +30,72 @@ Schools and teachers can continue to engage with their students through virtual 
 
 It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
 
+#### Hill 1
+
+A community leader/resident can organize community events and broadcast emergency information based on geo-location data.(Nextdoor for clean water and sanitation).
+
+- Verification of identity & community residency
+- Badge system based on number of events held/organized
+- Way to measure impact by event (attendees, sanitation goals)
+
+#### Hill 2
+
+A community leader can coordinate and fund a construction project in less than 72 hours.
+
+- Data source of approved contractors, experts & reviews
+- Workflow to manage requisitions
+- Means to add data
+
+#### Hill 3
+
+A community leader can find verified clean sources of water near to them in one place in near real time.
+
+- GPS Location Data for water sources relative to user location
+- Data source to manage GPS data
+- API to access data
+
+#### Hill 4
+
+A community leader can track/compare water sanitation results against historical trends + nearby communities to drive a ~50% reduction in water illness related hospitalizations.
+
+- Water analysis technology (IOT)
+Track & trace 
+Publicity of results & water source to report mapping
+Pollution source remediation & containment
+
+#### Hill 5
+
+A teacher can run and manage a challenge program that both educates students on clean water access & inspires future change in one platform.
+
+- Gamification & Badging
+- Embedded Virtual Whiteboard
+- Technology to test clean water
+- Repository for clean water resources & assessment
+- Connect with other communities & learn from water use experiences
+
+#### Hill 6
+
+A resident can assess their water usage and make more informed decisions to prioritize most essential needs & decrease water waste. 
+
+- Maps of surface water, aquifers, rainfall, watersheds relating to user location
+- Lab test results of water quality upstream & downstream
+- Water flow rate sensors to monitor household irrigation
+
+#### Hill 7
+
+A researcher can track rainwater levels so they can derive insights and make recommendations to communities and policy makers in a fraction of the time.
+
+- Sensor Data
+- Automated analytical analysis
+- Historic data on local rainfall
+- Historic comparison of color of surface water over time from satellite imagery
+- Rainfall forecast
+
+#### Hill 8
+
+Community advocacy groups can search and read legal case studies and legislation in plain language terms. 
+
+
 ## Demo video
 
 [![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
