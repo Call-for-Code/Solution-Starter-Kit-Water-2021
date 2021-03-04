@@ -54,6 +54,12 @@ We are initially focusing on the development of a starter kit that will enable t
 
 #### Hill 2
 
+![A community leader can coordinate and fund a construction project in less than 72 hours.](assets/hill2.svg)
+
+- Data source of approved contractors, experts & reviews
+- Workflow to manage requisitions
+- Means to add data
+
 ![A community leader can coordinate and fund a construction project in less than 72 hours.](assets/hill_2.png?raw=true)
 
 #### Hill 3
