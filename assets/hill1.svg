@@ -2,12 +2,12 @@
 <svg version="1.1" 
      xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="1070" height="90"
+     width="700" height="50"
 >
   <text font-size="16" x="10" y="20">
     <tspan fill="orange">A community leader or resident </tspan>
     <tspan fill="limegreen">can organize community events and broadcast</tspan>
     <tspan dy="1.2em" x="10" fill="limegreen">  emergency information </tspan>
-    <tspan fill="red">based on geo-location data. </tspan>
+    <tspan fill="red">based on geo-location data.</tspan>
   </text>
 </svg>
