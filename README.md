@@ -44,6 +44,13 @@ We are initially focusing on the development of a starter kit that will enable t
 
 #### Hill 1
 
+<p><font color="darkorange">A community leader or resident</font> <font color="limegreen">can organize community events and broadcast emergency information</font> <font color="red">based on geo-location data.</font></p>
+
+
+- Verification of identity & community residency
+- Badge system based on number of events held/organized
+- Way to measure impact by event (attendees, sanitation goals)
+
 ![A community leader or resident can organize community events and broadcast emergency information based on geo-location data.](assets/hill_1.png?raw=true)
 
 #### Hill 2
