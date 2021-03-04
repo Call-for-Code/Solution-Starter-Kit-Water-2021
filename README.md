@@ -121,10 +121,12 @@ We are initially focusing on the development of a starter kit that will enable t
 
 ![Starter Kit Architecture Diagram](assets/CFC-CleanWater-Architecture.png)
 
-1. The user navigates to the site and uploads a video file. [Learn how to build apps on the IBM Cloud](#platform-development).
-2. Watson Speech to Text processes the audio and extracts the text. [Learn about IBM artificial intelligence](#artificial-intelligence).
-3. Watson Translation (optionally) can translate the text to the desired language. [Learn about IBM artificial intelligence](#artificial-intelligence).
-4. The app stores the translated text as a document within Object Storage. [Learn about IBM data science](#data-science).
+1. User / Community leader accesses “Clean Water Insights Dashboard”.
+1. The insights dashboard requests “Clean Water API” for data that the user wants (including queries made on chatbot).
+1. User can converse with a chatbot to get necessary information. The insights dashboard can act as an orchestration application for chatbot.
+1. The “Clean Water API” component will get required data from various sources and aggregate them as necessary.
+1. Machine learning module uses data sources as a corpus to build a recommendation model and hosts that model.
+1. Water dashboard can get recommendation / prediction information from recommendation engine.
 
 ## Getting started
 
