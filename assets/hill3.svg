@@ -4,7 +4,7 @@
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="800" height="50"
 >
-  <text font-size="16" x="10" y="20" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;">
+  <text font-size="16" x="10" y="20" style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
     <tspan fill="orange">A community leader </tspan>
     <tspan fill="limegreen">can find verified clean sources of water near to them in one place </tspan>
     <tspan fill="red">in near realtime.</tspan>
