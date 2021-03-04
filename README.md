@@ -42,9 +42,9 @@ This would be a centralized way to access and record:
 
 We are initially focusing on the development of a starter kit that will enable these channels to be developed to their fullest potential.
 
-### The Hills 
+### The Hills
 
-#### Hill 1 
+#### Hill 1
 
 ![A community leader or resident can organize community events and broadcast emergency information based on geo-location data.](assets/hill1.svg)
 
@@ -119,7 +119,7 @@ We are initially focusing on the development of a starter kit that will enable t
 
 ## The architecture
 
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+![Starter Kit Architecture Diagram](assets/CFC-CleanWater-Architecture.png)
 
 1. The user navigates to the site and uploads a video file. [Learn how to build apps on the IBM Cloud](#platform-development).
 2. Watson Speech to Text processes the audio and extracts the text. [Learn about IBM artificial intelligence](#artificial-intelligence).
