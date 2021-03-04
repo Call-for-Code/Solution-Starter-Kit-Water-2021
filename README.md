@@ -135,32 +135,32 @@ You can create a solution based on the proposed solution architecture above by e
 #### Mapping APIs
 
 - [HERE Technologies API](https://developer.here.com)
-- [Draw GeoJSON maps](http://geojson.io) 
+- [Draw GeoJSON maps](http://geojson.io)
 - [Collection of zip code boundrary files for each of the 50 US states](https://github.com/OpenDataDE/State-zip-code-GeoJSON)
 
 #### Artificial intelligence
 
 Use AI to create apps that accelerate, enhance, and scale the human experience.
 
-* [Link 1](https://developer.ibm.com/callforcode/technical-library/)
+- [Link 1](https://developer.ibm.com/callforcode/technical-library/)
 
 #### Data science
 
 Analyze structured and unstructured data to extract knowledge and insights related to urgent issues.
 
-* [Link 1](https://developer.ibm.com/callforcode/technical-library/)
+- [Link 1](https://developer.ibm.com/callforcode/technical-library/)
 
 #### Internet of Things
 
 Collect and analyze device sensor data to take corrective or preventative action automatically.
 
-* [Integrate Watson IoT with HERE Tracking](https://developer.ibm.com/tutorials/connect-watson-iot-here-tracking-manage-track-devices-real-time/)
+- [Integrate Watson IoT with HERE Tracking](https://developer.ibm.com/tutorials/connect-watson-iot-here-tracking-manage-track-devices-real-time/)
 
 #### Platform development
 
 Identify the right environment, software, and runtime to power and scale your solution.
 
-* [Link 1](https://developer.ibm.com/callforcode/technical-library/)
+- [Link 1](https://developer.ibm.com/callforcode/technical-library/)
 
 #### Data sets
 
@@ -170,13 +170,13 @@ These public data sets provide information on the problem.
 - [Aquagenuity API provides water quality reports for many USA ZipCodes](https://aquagenuity.com/drinking-water-database/drinking-water-database)
 - [](https://github.com/awesomedata/awesome-public-datasets)
 - [](https://www.nccs.nasa.gov/services/data-collections)
-- [](http://www.fao.org/aquastat/statistics/query/index.html) 
+- [](http://www.fao.org/aquastat/statistics/query/index.html)
 
 #### NGO documents
 
 These are the go-to documents for measuring impact and progress against the key issue.
 
-* [Link 1](https://developer.ibm.com/callforcode/technical-library/)
+- [Link 1](https://developer.ibm.com/callforcode/technical-library/)
 
 ## Contributing
 
@@ -184,15 +184,15 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Contributors
 
-* Mateo Bozzini
-* Muralidhar Chavan
-* Christoph Gorder - Expert
-* Romeo Kienzler
-* Mark Meiklejohn
-* David O'Hara
-* Karla Readshaw
-* Niraj Swarmi - Expert
-* John Walicki
+- Mateo Bozzini
+- Muralidhar Chavan
+- Christoph Gorder - Expert
+- Romeo Kienzler
+- Mark Meiklejohn
+- David O'Hara
+- Karla Readshaw
+- Niraj Swarmi - Expert
+- John Walicki
 
 <a href="https://github.com/Call-for-Code/Solution-Starter-Kit-Water-2021/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Solution-Starter-Kit-Water-2021" />
@@ -204,5 +204,5 @@ This starter kit is licensed under the Apache 2 License - see the [LICENSE](LICE
 
 ## Acknowledgments
 
-* [Charity Water](https://www.charitywater.org/global-water-crisis)
-* [Nature Conservancy](https://www.nature.org/en-us/what-we-do/our-priorities/provide-food-and-water-sustainably/)
+- [Charity Water](https://www.charitywater.org/global-water-crisis)
+- [Nature Conservancy](https://www.nature.org/en-us/what-we-do/our-priorities/provide-food-and-water-sustainably/)
