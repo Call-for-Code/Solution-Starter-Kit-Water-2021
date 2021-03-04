@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" 
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="700" height="50"
+>
+  <text font-size="16" x="10" y="20">
+    <tspan fill="orange">A community leader </tspan>
+    <tspan fill="limegreen">can coordinate and fund a construction project</tspan>
+    <tspan fill="red"> in less than 72 hours.</tspan>
+  </text>
+</svg>
