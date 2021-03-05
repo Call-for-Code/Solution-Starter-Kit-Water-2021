@@ -44,6 +44,8 @@ We are initially focusing on the development of a starter kit that will enable t
 
 ### The Hills
 
+We are initially focusing on the development of a starter kit that will enable Call for Code projects teams to brainstorm and implement solutions that solve one or more of the hills described below: 
+
 #### Hill 1
 
 ![A community leader or resident can organize community events and broadcast emergency information based on geo-location data.](assets/hill1.svg)
@@ -56,6 +58,8 @@ We are initially focusing on the development of a starter kit that will enable t
 
 ![A community leader can coordinate and fund a construction project in less than 72 hours.](assets/hill2.svg)
 
+Essential technologies:
+
 - Data source of approved contractors, experts & reviews
 - Workflow to manage requisitions
 - Means to add data
@@ -63,6 +67,8 @@ We are initially focusing on the development of a starter kit that will enable t
 #### Hill 3
 
 ![A community leader can find verified clean sources of water near to them in one place in near real time.](assets/hill3.svg)
+
+Essential technologies:
 
 - GPS Location Data for water sources relative to user location
 - Data source to manage GPS data
@@ -72,6 +78,8 @@ We are initially focusing on the development of a starter kit that will enable t
 
 ![A community leader can track/compare water sanitation results against historical trends + nearby communities to drive a ~50% reduction in water illness related hospitalizations.](assets/hill4.svg)
 
+Essential technologies:
+
 - Water analysis technology (IOT)
 - Track & trace
 - Publicity of results & water source to report mapping
@@ -80,6 +88,8 @@ We are initially focusing on the development of a starter kit that will enable t
 #### Hill 5
 
 ![A teacher can run and manage a challenge program that both educates students on clean water access & inspires future change in one platform.](assets/hill5.svg)
+
+Essential technologies:
 
 - Gamification & Badging
 - Embedded Virtual Whiteboard
@@ -91,6 +101,8 @@ We are initially focusing on the development of a starter kit that will enable t
 
 ![A resident can assess their water usage and make more informed decisions to prioritize most essential needs & decrease water waste.](assets/hill6.svg)
 
+Essential technologies:
+
 - Maps of surface water, aquifers, rainfall, watersheds relating to user location
 - Lab test results of water quality upstream & downstream
 - Water flow rate sensors to monitor household irrigation
@@ -98,6 +110,8 @@ We are initially focusing on the development of a starter kit that will enable t
 #### Hill 7
 
 ![A researcher can track rainwater levels so they can derive insights and make recommendations to communities and policy makers in a fraction of the time.](assets/hill7.svg)
+
+Essential technologies:
 
 - Sensor Data
 - Automated analytical analysis
@@ -108,6 +122,8 @@ We are initially focusing on the development of a starter kit that will enable t
 #### Hill 8
 
 ![Community advocacy groups can search and read legal case studies and legislation in plain language terms.](assets/hill8.svg)
+
+Essential technologies:
 
 - Natural language processing
 - Text Summarization
@@ -170,9 +186,9 @@ These public data sets provide information on the problem.
 
 - [USGS Watershed maps](https://waterdata.usgs.gov/blog/nldi-intro/)
 - [Aquagenuity API provides water quality reports for many USA ZipCodes](https://aquagenuity.com/drinking-water-database/drinking-water-database)
-- [](https://github.com/awesomedata/awesome-public-datasets)
-- [](https://www.nccs.nasa.gov/services/data-collections)
-- [](http://www.fao.org/aquastat/statistics/query/index.html)
+- [Huge collection of datasets, topics include climate and wearther, agriculture, etc  ](https://github.com/awesomedata/awesome-public-datasets)
+- [Data collections that include atmosphere, ocean, land, and flood data, both current and historical](https://www.nccs.nasa.gov/services/data-collections)
+- [Platform for organizing and presenting variables and indicators on water resources and their use](http://www.fao.org/aquastat/statistics/query/index.html) 
 
 #### NGO documents
 
