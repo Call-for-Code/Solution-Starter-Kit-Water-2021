@@ -26,7 +26,11 @@ tbd
 
 ### How can technology help?
 
-tbd
+IBM can provide various technologies such as IoT, Watson, and blockchain. [IBM Water Management as a Service platform](https://www.ibm.com/thought-leadership/water/) can monitor water resources in real time. Through a cloud-based Water Management as a Service platform, IBM is helping to improve the management of water resources.
+
+- Can be used to create a database and interactive map to help locate and maintain the water points across the counties. ([View the map](https://wmaasp.mybluemix.net/sensor-overview)) 
+- Can collect water usage, breakage, and repair data from boreholes that are monitored by SweetSense
+- Can help deliver a detailed view of governance within each of the counties, associated responsibilities, and contact information
 
 ### The idea
 
