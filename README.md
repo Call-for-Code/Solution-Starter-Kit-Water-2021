@@ -50,6 +50,8 @@ We are initially focusing on the development of a starter kit that will enable C
 
 ![A community leader or resident can organize community events and broadcast emergency information based on geo-location data.](assets/hill1.svg)
 
+Essential technologies:
+
 - Verification of identity & community residency
 - Badge system based on number of events held/organized
 - Way to measure impact by event (attendees, sanitation goals)
@@ -173,6 +175,7 @@ Analyze structured and unstructured data to extract knowledge and insights relat
 Collect and analyze device sensor data to take corrective or preventative action automatically.
 
 - [Integrate Watson IoT with HERE Tracking](https://developer.ibm.com/tutorials/connect-watson-iot-here-tracking-manage-track-devices-real-time/)
+- [Build a weather dashboard](https://developer.ibm.com/tutorials/collect-display-hyperlocal-weather-data-from-a-pws-cfc-starter-kit-1/)
 
 #### Platform development
 
