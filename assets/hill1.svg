@@ -4,7 +4,7 @@
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="800" height="40"
 >
-  <text font-size="16" x="10" y="20" style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
+  <text font-size="16" x="10" y="15" style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
     <tspan fill="orange">A community leader or resident </tspan>
     <tspan fill="limegreen">can organize community events and broadcast </tspan>
     <tspan dy="1.2em" x="10" fill="limegreen">emergency information </tspan>
