@@ -4,7 +4,7 @@
 
 Use this starter kit to understand how to technology can improve access to clean drinking water, reduce water waste, protect natural resources and more. Jump-start your own solution with tools and resources from our experts.
 
-Water is the natural resource that is most threatened by climate change and a prerequisite for life on earth. Three billion people throughout the world still lack access to safely managed water and sanitation services and basic handwashing facilities at home, which are critical to preventing the spread of COVID-19 and other diseases. In least developed countries, nearly three-quarters of the population lack access to clean water and sanitation services.
+Water is the natural resource that is most threatened by climate change. According to the [World Health Organization](https://www.who.int/news/item/18-06-2019-1-in-3-people-globally-do-not-have-access-to-safe-drinking-water-unicef-who), 2.2 billion people around the world do not have safely managed drinking water services, 4.2 billion people do not have safely managed sanitation services, and 3 billion lack basic handwashing facilities. These services are critical in preventing the spread of COVID-19 and other diseases. 
 
 ## Contents
 
@@ -20,17 +20,21 @@ Water is the natural resource that is most threatened by climate change and a pr
 
 ## Short description
 
+This starter kit can help you begin your Call for Code solution to combat clean water and sanitation issues around the world. It pulls together resources to help you and your team use technology to create applications 
+
 ### What's the problem?
 
 tbd
 
 ### How can technology help?
 
-IBM can provide various technologies such as IoT, Watson, and blockchain. [IBM Water Management as a Service platform](https://www.ibm.com/thought-leadership/water/) can monitor water resources in real time. Through a cloud-based Water Management as a Service platform, IBM is helping to improve the management of water resources.
+From intelligent solutions for small farmers to recycling showers, technology can make a significant impact on the availability of water and its consumption. IBM provides various technologies such as IoT, Watson, and blockchain. [IBM Water Management as a Service platform](https://www.ibm.com/thought-leadership/water/) can monitor water resources in real time. Through a cloud-based Water Management as a Service platform, IBM is helping to improve the management of water resources.
 
-- Can be used to create a database and interactive map to help locate and maintain the water points across the counties. ([View the map](https://wmaasp.mybluemix.net/sensor-overview)) 
-- Can collect water usage, breakage, and repair data from boreholes that are monitored by SweetSense
-- Can help deliver a detailed view of governance within each of the counties, associated responsibilities, and contact information
+Additional ways technology can help inclue:
+
+- Creating a database and interactive map to help locate and maintain the water points across the counties. ([View the map](https://wmaasp.mybluemix.net/sensor-overview).) 
+- Collecting water usage, breakage, and repair data from boreholes that are monitored by SweetSense.
+- Delivering a detailed view of governance within each of the counties, associated responsibilities, and contact information.
 
 ### The idea
 
