@@ -30,7 +30,7 @@ tbd
 
 From intelligent solutions for small farmers to recycling showers, technology can make a significant impact on the availability of water and its consumption. IBM provides various technologies such as IoT, Watson, and blockchain. [IBM Water Management as a Service platform](https://www.ibm.com/thought-leadership/water/) can monitor water resources in real time. Through a cloud-based Water Management as a Service platform, IBM is helping to improve the management of water resources.
 
-Additional ways technology can help inclue:
+Additional ways technology can help include:
 
 - Creating a database and interactive map to help locate and maintain the water points across the counties. ([View the map](https://wmaasp.mybluemix.net/sensor-overview).) 
 - Collecting water usage, breakage, and repair data from boreholes that are monitored by SweetSense.
