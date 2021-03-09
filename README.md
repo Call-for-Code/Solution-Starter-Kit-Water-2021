@@ -2,9 +2,8 @@
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack) [![Website](https://img.shields.io/badge/View-Website-blue)](https://code-and-response.github.io/Project-Sample/)
 
-Use this starter kit to understand how to technology can improve access to clean drinking water, reduce water waste, protect natural resources and more. Jump-start your own solution with tools and resources from our experts.
+Water is the natural resource that is most threatened by climate change. Use this starter kit to understand how to technology can improve access to clean drinking water, reduce water waste, protect natural resources and more. Jump-start your own solution with tools and resources from our experts.
 
-Water is the natural resource that is most threatened by climate change. According to the [World Health Organization](https://www.who.int/news/item/18-06-2019-1-in-3-people-globally-do-not-have-access-to-safe-drinking-water-unicef-who), 2.2 billion people around the world do not have safely managed drinking water services, 4.2 billion people do not have safely managed sanitation services, and 3 billion lack basic handwashing facilities. These services are critical in preventing the spread of COVID-19 and other diseases. 
 
 ## Contents
 
@@ -20,11 +19,15 @@ Water is the natural resource that is most threatened by climate change. Accordi
 
 ## Short description
 
-This starter kit can help you begin your Call for Code solution to combat clean water and sanitation issues around the world. It pulls together resources to help you and your team use technology to create applications 
+This starter kit can help you begin your Call for Code solution to combat clean water and sanitation issues around the world. It pulls together resources to help you and your team use technology to create applications.
 
 ### What's the problem?
 
-tbd
+According to the [World Health Organization](https://www.who.int/news/item/18-06-2019-1-in-3-people-globally-do-not-have-access-to-safe-drinking-water-unicef-who), 2.2 billion people around the world do not have safely managed drinking water services, 4.2 billion people do not have safely managed sanitation services, and 3 billion lack basic handwashing facilities. These services are critical in preventing the spread of COVID-19 and other diseases. 
+
+Three billion people throughout the world still lack access to safely managed water and sanitation services and basic handwashing facilities at home, which are critical to preventing the spread of COVID-19 and other diseases. The number is much higher in least developed countries, where nearly three-quarters go without.
+
+UNICEF is urgently appealing for funding and support to reach more children with basic water, sanitation, and hygiene facilities, especially those children who are cut off from safe water because they live in remote areas, in places where water is untreated or polluted, or because they are without a home, living in a slum or on the street.
 
 ### How can technology help?
 
@@ -48,13 +51,13 @@ This would be a centralized way to access and record:
 - Enable transparent water usage, cleanliness results and site to site comparison
 - Access to plain language case studies and legislation
 
-We are initially focusing on the development of a starter kit that will enable these channels to be developed to their fullest potential.
 
-### The Hills
+### Solution ideas
 
-We are initially focusing on the development of a starter kit that will enable Call for Code projects teams to brainstorm and implement solutions that solve one or more of the hills described below: 
+Use this starter kit to enable Call for Code project teams to brainstorm and implement solutions that solve one or more of the solution idead described below.
+The following ideas are only examples, feel free to brainstorm with your team to create your own ideas/solutions.
 
-#### Hill 1
+#### Idea 1
 
 ![A community leader or resident can organize community events and broadcast emergency information based on geo-location data.](assets/hill1.svg)
 
@@ -64,7 +67,7 @@ Essential technologies:
 - Badge system based on number of events held/organized
 - Way to measure impact by event (attendees, sanitation goals)
 
-#### Hill 2
+#### Idea 2
 
 ![A community leader can coordinate and fund a construction project in less than 72 hours.](assets/hill2.svg)
 
@@ -74,7 +77,7 @@ Essential technologies:
 - Workflow to manage requisitions
 - Means to add data
 
-#### Hill 3
+#### Idea 3
 
 ![A community leader can find verified clean sources of water near to them in one place in near real time.](assets/hill3.svg)
 
@@ -84,7 +87,7 @@ Essential technologies:
 - Data source to manage GPS data
 - API to access data
 
-#### Hill 4
+#### Idea 4
 
 ![A community leader can track/compare water sanitation results against historical trends + nearby communities to drive a ~50% reduction in water illness related hospitalizations.](assets/hill4.svg)
 
@@ -95,7 +98,7 @@ Essential technologies:
 - Publicity of results & water source to report mapping
 - Pollution source remediation & containment
 
-#### Hill 5
+#### Idea 5
 
 ![A teacher can run and manage a challenge program that both educates students on clean water access & inspires future change in one platform.](assets/hill5.svg)
 
@@ -107,7 +110,7 @@ Essential technologies:
 - Repository for clean water resources & assessment
 - Connect with other communities & learn from water use experiences
 
-#### Hill 6
+#### Idea 6
 
 ![A resident can assess their water usage and make more informed decisions to prioritize most essential needs & decrease water waste.](assets/hill6.svg)
 
@@ -117,7 +120,7 @@ Essential technologies:
 - Lab test results of water quality upstream & downstream
 - Water flow rate sensors to monitor household irrigation
 
-#### Hill 7
+#### Idea 7
 
 ![A researcher can track rainwater levels so they can derive insights and make recommendations to communities and policy makers in a fraction of the time.](assets/hill7.svg)
 
@@ -129,7 +132,7 @@ Essential technologies:
 - Historic comparison of color of surface water over time from satellite imagery
 - Rainfall forecast
 
-#### Hill 8
+#### Idea 8
 
 ![Community advocacy groups can search and read legal case studies and legislation in plain language terms.](assets/hill8.svg)
 
@@ -139,7 +142,7 @@ Essential technologies:
 - Text Summarization
 - Document management
 
-## Demo video
+## Video
 
 [![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
 
@@ -160,6 +163,15 @@ You can create a solution based on the proposed solution architecture above by e
 
 ### Resources
 
+#### Platform development
+
+Identify the right environment, software, and runtime to power and scale your solution.
+
+- [Technical content library for developers](https://developer.ibm.com/callforcode/technical-library/)
+- [Watson Studio](https://www.ibm.com/cloud/watson-studio)
+- [Watson IoT](https://www.ibm.com/internet-of-things)
+- [Watson Machine Learning](https://www.ibm.com/cloud/machine-learning)
+
 #### Mapping APIs
 
 - [HERE Technologies API](https://developer.here.com)
@@ -170,13 +182,13 @@ You can create a solution based on the proposed solution architecture above by e
 
 Use AI to create apps that accelerate, enhance, and scale the human experience.
 
-- [Link 1](https://developer.ibm.com/callforcode/technical-library/)
+- [Technical Library](https://developer.ibm.com/callforcode/technical-library/)
 
 #### Data science
 
 Analyze structured and unstructured data to extract knowledge and insights related to urgent issues.
 
-- [Link 1](https://developer.ibm.com/callforcode/technical-library/)
+- [Technical Library](https://developer.ibm.com/callforcode/technical-library/)
 
 #### Internet of Things
 
@@ -185,15 +197,6 @@ Collect and analyze device sensor data to take corrective or preventative action
 - [Integrate Watson IoT with HERE Tracking](https://developer.ibm.com/tutorials/connect-watson-iot-here-tracking-manage-track-devices-real-time/)
 - [Build a hyper-local weather dashboard - Use The Weather Company's APIs to build a Node-RED weather dashboard](https://developer.ibm.com/tutorials/collect-display-hyperlocal-weather-data-from-a-pws-cfc-starter-kit-1/)
 - [Analyze IoT ESP8266 Sensor Data](https://developer.ibm.com/technologies/iot/tutorials/connect-a-soil-sensor-send-data-to-the-cloud-cfc-starter-kit-1)
-
-#### Platform development
-
-Identify the right environment, software, and runtime to power and scale your solution.
-
-- [Technical content library for developers](https://developer.ibm.com/callforcode/technical-library/)
-- [Watson Studio](https://www.ibm.com/cloud/watson-studio)
-- [Watson IoT](https://www.ibm.com/internet-of-things)
-- [Watson Machine Learning](https://www.ibm.com/cloud/machine-learning)
 
 #### Data sets
 
