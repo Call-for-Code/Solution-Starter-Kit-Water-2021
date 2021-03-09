@@ -183,13 +183,17 @@ Analyze structured and unstructured data to extract knowledge and insights relat
 Collect and analyze device sensor data to take corrective or preventative action automatically.
 
 - [Integrate Watson IoT with HERE Tracking](https://developer.ibm.com/tutorials/connect-watson-iot-here-tracking-manage-track-devices-real-time/)
-- [Build a weather dashboard](https://developer.ibm.com/tutorials/collect-display-hyperlocal-weather-data-from-a-pws-cfc-starter-kit-1/)
+- [Build a hyper-local weather dashboard - Use The Weather Company's APIs to build a Node-RED weather dashboard](https://developer.ibm.com/tutorials/collect-display-hyperlocal-weather-data-from-a-pws-cfc-starter-kit-1/)
+- [Analyze IoT ESP8266 Sensor Data](https://developer.ibm.com/technologies/iot/tutorials/connect-a-soil-sensor-send-data-to-the-cloud-cfc-starter-kit-1)
 
 #### Platform development
 
 Identify the right environment, software, and runtime to power and scale your solution.
 
-- [Link 1](https://developer.ibm.com/callforcode/technical-library/)
+- [Technical content library for developers](https://developer.ibm.com/callforcode/technical-library/)
+- [Watson Studio](https://www.ibm.com/cloud/watson-studio)
+- [Watson IoT](https://www.ibm.com/internet-of-things)
+- [Watson Machine Learning](https://www.ibm.com/cloud/machine-learning)
 
 #### Data sets
 
@@ -205,7 +209,8 @@ These public data sets provide information on the problem.
 
 These are the go-to documents for measuring impact and progress against the key issue.
 
-- [Link 1](https://developer.ibm.com/callforcode/technical-library/)
+- [Sendai Framework Priority 4: Build Back Better](https://www.youtube.com/watch?v=mRTlS3ZfljM)
+- [Open data in the agricultural sector](https://www.europeandataportal.eu/en/highlights/open-data-agricultural-sector)
 
 ## Contributing
 
