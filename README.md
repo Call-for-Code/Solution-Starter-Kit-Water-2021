@@ -8,13 +8,11 @@ Water is the natural resource that is most threatened by climate change. Use thi
 ## Contents
 
 1. [Short description](#short-description)
-1. [Demo video](#demo-video)
+1. [Video](#video)
 1. [The architecture](#the-architecture)
 1. [Getting started](#getting-started)
 1. [Contributing](#contributing)
 1. [Versioning](#versioning)
-1. [Authors](#authors)
-1. [License](#license)
 1. [Acknowledgments](#acknowledgments)
 
 ## Short description
@@ -162,6 +160,15 @@ Essential technologies:
 You can create a solution based on the proposed solution architecture above by exploring the following resources on the [IBM Developer](https://developer.ibm.com/) site.
 
 ### Resources
+
+#### Tutorials
+
+**Build a Water Quality Dasboard with GeoJSON and Node-Red**
+
+
+**Building integrations with event-driven flows or flows for APIs**
+Learn how to create a [fully integrated application using IBM App Connect](https://developer.ibm.com/tutorials/building-integrations-with-app-connect/). IBM App Connect, which is a key component of the IBM Cloud Pak for Integration platform (and available for free on IBM Cloud as a SaaS offering), showcases the agility of integrating applications on the cloud.
+
 
 #### Platform development
 
