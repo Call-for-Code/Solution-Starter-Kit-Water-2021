@@ -30,7 +30,7 @@ From intelligent solutions for small farmers to recycling showers, technology ca
 
 Additional ways technology can help:
 
-- Creating a database and [nteractive map](https://wmaasp.mybluemix.net/sensor-overview) to help locate and maintain the water points across the counties
+- Creating a database and [interactive map](https://wmaasp.mybluemix.net/sensor-overview) to help locate and maintain the water points across the counties
 - Collecting water usage, breakage, and repair data from boreholes that are monitored by SweetSense
 - Delivering a detailed view of governance within each of the counties, associated responsibilities, and contact information
 
