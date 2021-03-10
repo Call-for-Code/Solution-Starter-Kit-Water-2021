@@ -160,11 +160,8 @@ You can create a solution based on the proposed solution architecture above by e
 
 #### Tutorials
 
-**Build a Water Quality Dasboard with GeoJSON and Node-Red**
-
-
-**Building integrations with event-driven flows or flows for APIs**
-Learn how to create a [fully integrated application using IBM App Connect](https://developer.ibm.com/tutorials/building-integrations-with-app-connect/). IBM App Connect, which is a key component of the IBM Cloud Pak for Integration platform (and available for free on IBM Cloud as a SaaS offering), showcases the agility of integrating applications on the cloud.
+- **Build a Water Quality Dashboard with GeoJSON and Node-RED** - Display USGS Watershed maps on a Node-RED Dashboard with Water Quality Reports. Query the watershed area maps of the Ridgewood, NJ and Atlanta, GA watershed using the USGS Hydro Network-Linked Data Index and plot the water basins and rivers on a Node-RED Dashboard.
+- **Building integrations with event-driven flows or flows for APIs** - Learn how to create a [fully integrated application using IBM App Connect](https://developer.ibm.com/tutorials/building-integrations-with-app-connect/). IBM App Connect, which is a key component of the IBM Cloud Pak for Integration platform (and available for free on IBM Cloud as a SaaS offering), showcases the agility of integrating applications on the cloud.
 
 
 #### Platform development
