@@ -28,114 +28,116 @@ UNICEF is urgently appealing for funding and support to reach more children with
 
 From intelligent solutions for small farmers to recycling showers, technology can make a significant impact on the availability of water and its consumption. IBM provides various technologies such as IoT, Watson, and blockchain. [IBM Water Management as a Service platform](https://www.ibm.com/thought-leadership/water/) can monitor water resources in real time. Through this cloud-based platform, IBM is helping to improve the management of water resources.
 
-Additional ways technology can help:
+Additional ways Water Management as a Service can help:
 
 - Creating a database and [interactive map](https://wmaasp.mybluemix.net/sensor-overview) to help locate and maintain the water points across the counties
 - Collecting water usage, breakage, and repair data from boreholes that are monitored by SweetSense
-- Delivering a detailed view of governance within each of the counties, associated responsibilities, and contact information
+- Delivering tickets to repair and maintenance teams who can respond to failures and repair the boreholes
 
 ### The idea
 
-To encourage optimal water choices by consumers and local governments and incentivize water sustainability, we propose devising and implementing an API for water data collection and dissemination.
+To encourage optimal water choices by consumers and local governments and to incentivize water sustainability, we propose devising and implementing an API for water data collection and dissemination. With an API, you could have a centralized way to:
 
-This suggestion is a centralized way to access and record:
-
-- Geo-location of sustainable water sources
+- Get a geolocation of sustainable water sources
 - Simplify coordination and funding for water construction projects
-- Educational tools to support water sustainability and clean water access
-- Enable transparent water usage, cleanliness results and site to site comparison
-- Access to plain language case studies and legislation
-
+- Get educational tools to support water sustainability and clean water access
+- Enable transparent water usage, cleanliness results, and site-to-site comparison
+- Access plain language case studies and legislation
 
 ### Solution ideas
 
-Use this starter kit to enable Call for Code project teams to brainstorm and implement solutions that solve one or more of the solution idead described below.
-The following ideas are only examples, feel free to brainstorm with your team to create your own ideas/solutions.
+This section provides several examples that you and your team can use to jump-start your solution ideas. The following ideas are examples only, so feel free to brainstorm with your team to create your own original ideas and solutions. For example, the 2020 Call for Code Grand Prize winnter, [Agrolly](https://developer.ibm.com/blogs/agrolly/) created a solution that uses IBM Cloud Object Storage, IBM Watson Studio, IBM Watson Assistant, and The Weather Company technologies to execute climate risk assessments, which allows farmers with less resources available to them to still make more educated decisions, obtain the necessary financing, and improve their economic outcome.
+
+In the following examples:
+
+* Orange text indicates "who"
+* Green text indicates "what"
+* Red text indicates "where" or "when"
 
 #### Idea 1
 
-![A community leader or resident can organize community events and broadcast emergency information based on geo-location data.](assets/hill1.svg)
+![A community leader or resident can organize community events and broadcast emergency information based on geolocation data.](assets/hill1.svg)
 
-Essential technologies:
+Essential technologies needed:
 
-- Verification of identity & community residency
-- Badge system based on number of events held/organized
-- Way to measure impact by event (attendees, sanitation goals)
+* Verification of identity and community residency
+* Badge system that is based on the number of events held or organized
+* Measuring the impact by event (for example, attendees or sanitation goals)
 
 #### Idea 2
 
 ![A community leader can coordinate and fund a construction project in less than 72 hours.](assets/hill2.svg)
 
-Essential technologies:
+Essential technologies needed:
 
-- Data source of approved contractors, experts & reviews
-- Workflow to manage requisitions
-- Means to add data
+* Data source of approved contractors, experts, and reviews
+* Workflow to manage requisitions
+* Adding data
 
 #### Idea 3
 
 ![A community leader can find verified clean sources of water near to them in one place in near real time.](assets/hill3.svg)
 
-Essential technologies:
+Essential technologies needed:
 
-- GPS Location Data for water sources relative to user location
-- Data source to manage GPS data
-- API to access data
+* GPS location data for water sources relative to user location
+* Data source to manage GPS data
+* API to access data
 
 #### Idea 4
 
-![A community leader can track/compare water sanitation results against historical trends + nearby communities to drive a ~50% reduction in water illness related hospitalizations.](assets/hill4.svg)
+![A community leader can track/compare water sanitation results against historical trends + nearby communities to drive a ~50% reduction in water illness-related hospitalizations.](assets/hill4.svg)
 
-Essential technologies:
+Essential technologies needed:
 
-- Water analysis technology (IOT)
-- Track & trace
-- Publicity of results & water source to report mapping
-- Pollution source remediation & containment
+* Water analysis technology (IoT)
+* Track and trace
+* Publicity of results and water source to report mapping
+* Pollution source remediation and containment
 
 #### Idea 5
 
 ![A teacher can run and manage a challenge program that both educates students on clean water access & inspires future change in one platform.](assets/hill5.svg)
 
-Essential technologies:
+Essential technologies needed:
 
-- Gamification & Badging
-- Embedded Virtual Whiteboard
-- Technology to test clean water
-- Repository for clean water resources & assessment
-- Connect with other communities & learn from water use experiences
+* Gamification and badging
+* Embedded virtual whiteboard
+* Technology to test clean water
+* Repository for clean water resources and assessment
+* Connect with other communities and learn from water use experiences
 
 #### Idea 6
 
 ![A resident can assess their water usage and make more informed decisions to prioritize most essential needs & decrease water waste.](assets/hill6.svg)
 
-Essential technologies:
+Essential technologies needed:
 
-- Maps of surface water, aquifers, rainfall, watersheds relating to user location
-- Lab test results of water quality upstream & downstream
-- Water flow rate sensors to monitor household irrigation
+* Maps of surface water, aquifers, rainfall, and watersheds relating to user location
+* Lab test results of water quality upstream and downstream
+* Water flow rate sensors to monitor household irrigation
 
 #### Idea 7
 
 ![A researcher can track rainwater levels so they can derive insights and make recommendations to communities and policy makers in a fraction of the time.](assets/hill7.svg)
 
-Essential technologies:
+Essential technologies needed:
 
-- Sensor Data
-- Automated analytical analysis
-- Historic data on local rainfall
-- Historic comparison of color of surface water over time from satellite imagery
-- Rainfall forecast
+* Sensor data
+* Automated analytical analysis
+* Historic data on local rainfall
+* Historic comparison of color of surface water over time from satellite imagery
+* Rainfall forecast
 
 #### Idea 8
 
 ![Community advocacy groups can search and read legal case studies and legislation in plain language terms.](assets/hill8.svg)
 
-Essential technologies:
+Essential technologies needed:
 
-- Natural language processing
-- Text Summarization
-- Document management
+* Natural language processing
+* Text summarization
+* Document management
 
 ## Video
 
@@ -143,94 +145,97 @@ Essential technologies:
 
 ## The architecture
 
-![Starter Kit Architecture Diagram](assets/CFC-CleanWater-Architecture.png)
+![Starter kit architecture diagram](assets/CFC-CleanWater-Architecture.png)
 
-1. User / Community leader accesses “Clean Water Insights Dashboard”.
-1. The insights dashboard requests “Clean Water API” for data that the user wants (including queries made on chatbot).
-1. User can converse with a chatbot to get necessary information. The insights dashboard can act as an orchestration application for chatbot.
-1. The “Clean Water API” component will get required data from various sources and aggregate them as necessary.
-1. Machine learning module uses data sources as a corpus to build a recommendation model and hosts that model.
-1. Water dashboard can get recommendation / prediction information from recommendation engine.
+1. The user or community leader accesses a Clean Water Insights Dashboard.
+1. The insights dashboard requests the Clean Water API for data that the user wants (including queries made on a chatbot).
+1. The user can converse with a chatbot to get necessary information, and the insights dashboard can act as an orchestration application for the chatbot.
+1. The Clean Water API component retrieves the required data from various sources and aggregates them as necessary.
+1. A machine learning module uses the data sources as a corpus to build a recommendation model and hosts that model.
+1. The Clean Water Water Insights Dashboard can get recommendation and prediction information from a recommendation engine.
 
 ## Getting started
 
-You can create a solution based on the proposed solution architecture above by exploring the following resources on the [IBM Developer](https://developer.ibm.com/) site.
+You can create a solution based on the proposed solution architecture by exploring the following resources on [IBM Developer](https://developer.ibm.com/).
 
 ### Resources
 
+Use the following resources to help you identify a topic and create your own solution.
+
 #### Tutorials
 
-- **Build a Water Quality Dashboard with GeoJSON and Node-RED** - Display USGS Watershed maps on a Node-RED Dashboard with Water Quality Reports. Query the watershed area maps of the Ridgewood, NJ and Atlanta, GA watershed using the USGS Hydro Network-Linked Data Index and plot the water basins and rivers on a Node-RED Dashboard.
-- **Building integrations with event-driven flows or flows for APIs** - Learn how to create a [fully integrated application using IBM App Connect](https://developer.ibm.com/tutorials/building-integrations-with-app-connect/). IBM App Connect, which is a key component of the IBM Cloud Pak for Integration platform (and available for free on IBM Cloud as a SaaS offering), showcases the agility of integrating applications on the cloud.
+* [Build a Water Quality Dasboard with GeoJSON and Node-Red]() lkjsdflksjdfladjs
+* [Building integrations with event-driven flows or flows for APIs](https://developer.ibm.com/tutorials/building-integrations-with-app-connect/) explains how to create a fully integrated application using IBM App Connect. IBM App Connect, which is a key component of the IBM Cloud Pak for Integration platform (and available for free on IBM Cloud as a SaaS offering), showcases the agility of integrating applications on the cloud.
+* [Analyzing geospatial environment data]() skdjfslkdj
 
 
 #### Platform development
 
 Identify the right environment, software, and runtime to power and scale your solution.
 
-- [Technical content library for developers](https://developer.ibm.com/callforcode/technical-library/)
-- [Watson Studio](https://www.ibm.com/cloud/watson-studio)
-- [Watson IoT](https://www.ibm.com/internet-of-things)
-- [Watson Machine Learning](https://www.ibm.com/cloud/machine-learning)
+* [Technical library](https://developer.ibm.com/callforcode/technical-library/)
+* [Watson Studio](https://www.ibm.com/cloud/watson-studio)
+* [Watson IoT](https://www.ibm.com/internet-of-things)
+* [Watson Machine Learning](https://www.ibm.com/cloud/machine-learning)
 
 #### Mapping APIs
 
-- [HERE Technologies API](https://developer.here.com)
-- [Draw GeoJSON maps](http://geojson.io)
-- [Collection of zip code boundrary files for each of the 50 US states](https://github.com/OpenDataDE/State-zip-code-GeoJSON)
+* [HERE Technologies API](https://developer.here.com)
+* [Draw GeoJSON maps](http://geojson.io)
+* [Collection of zip code boundrary files for each of the 50 US states](https://github.com/OpenDataDE/State-zip-code-GeoJSON)
 
 #### Artificial intelligence
 
 Use AI to create apps that accelerate, enhance, and scale the human experience.
 
-- [Technical Library](https://developer.ibm.com/callforcode/technical-library/)
+* [Technical library](https://developer.ibm.com/callforcode/technical-library/)
 
 #### Data science
 
 Analyze structured and unstructured data to extract knowledge and insights related to urgent issues.
 
-- [Technical Library](https://developer.ibm.com/callforcode/technical-library/)
+* [Technical library](https://developer.ibm.com/callforcode/technical-library/)
 
 #### Internet of Things
 
 Collect and analyze device sensor data to take corrective or preventative action automatically.
 
-- [Integrate Watson IoT with HERE Tracking](https://developer.ibm.com/tutorials/connect-watson-iot-here-tracking-manage-track-devices-real-time/)
-- [Build a hyper-local weather dashboard - Use The Weather Company's APIs to build a Node-RED weather dashboard](https://developer.ibm.com/tutorials/collect-display-hyperlocal-weather-data-from-a-pws-cfc-starter-kit-1/)
-- [Analyze IoT ESP8266 Sensor Data](https://developer.ibm.com/technologies/iot/tutorials/connect-a-soil-sensor-send-data-to-the-cloud-cfc-starter-kit-1)
+* [Integrate Watson IoT with HERE Tracking](https://developer.ibm.com/tutorials/connect-watson-iot-here-tracking-manage-track-devices-real-time/)
+* [Build a hyper-local weather dashboard: Use The Weather Company's APIs to build a Node-RED weather dashboard](https://developer.ibm.com/tutorials/collect-display-hyperlocal-weather-data-from-a-pws-cfc-starter-kit-1/)
+* [Analyze IoT ESP8266 sensor data](https://developer.ibm.com/technologies/iot/tutorials/connect-a-soil-sensor-send-data-to-the-cloud-cfc-starter-kit-1)
 
 #### Data sets
 
 These public data sets provide information on the problem.
 
-- [USGS Watershed maps](https://waterdata.usgs.gov/blog/nldi-intro/)
-- [Aquagenuity API provides water quality reports for many USA ZipCodes](https://aquagenuity.com/drinking-water-database/drinking-water-database)
-- [Huge collection of datasets, topics include climate and wearther, agriculture, etc  ](https://github.com/awesomedata/awesome-public-datasets)
-- [Data collections that include atmosphere, ocean, land, and flood data, both current and historical](https://www.nccs.nasa.gov/services/data-collections)
-- [Platform for organizing and presenting variables and indicators on water resources and their use](http://www.fao.org/aquastat/statistics/query/index.html) 
+* [USGS watershed maps](https://waterdata.usgs.gov/blog/nldi-intro/)
+* [Aquagenuity API provides water quality reports for many USA zip codes](https://aquagenuity.com/drinking-water-database/drinking-water-database)
+* [A large collection of data sets, topics include climate, weather, and agriculture](https://github.com/awesomedata/awesome-public-datasets)
+* [Data collections that include atmosphere, ocean, land, and flood data, both current and historical](https://www.nccs.nasa.gov/services/data-collections)
+* [Platform for organizing and presenting variables and indicators on water resources and their use](http://www.fao.org/aquastat/statistics/query/index.html) 
 
 #### NGO documents
 
 These are the go-to documents for measuring impact and progress against the key issue.
 
-- [Sendai Framework Priority 4: Build Back Better](https://www.youtube.com/watch?v=mRTlS3ZfljM)
-- [Open data in the agricultural sector](https://www.europeandataportal.eu/en/highlights/open-data-agricultural-sector)
+* [Sendai Framework Priority 4: Build Back Better](https://www.youtube.com/watch?v=mRTlS3ZfljM)
+* [Open data in the agricultural sector](https://www.europeandataportal.eu/en/highlights/open-data-agricultural-sector)
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+Please read about [contributing](CONTRIBUTING.md) to this repository for details on our code of conduct and the process for submitting pull requests.
 
 ## Contributors
 
-- Mateo Bozzini
-- Muralidhar Chavan
-- Christoph Gorder - Expert
-- Romeo Kienzler
-- Mark Meiklejohn
-- David O'Hara
-- Karla Readshaw
-- Niraj Swarmi - Expert
-- John Walicki
+* Mateo Bozzini
+* Muralidhar Chavan
+* Christoph Gorder - Expert
+* Romeo Kienzler
+* Mark Meiklejohn
+* David O'Hara
+* Karla Readshaw
+* Niraj Swarmi - Expert
+* John Walicki
 
 <a href="https://github.com/Call-for-Code/Solution-Starter-Kit-Water-2021/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Solution-Starter-Kit-Water-2021" />
