@@ -8,6 +8,6 @@
     <tspan fill="orange">A community leader or resident </tspan>
     <tspan fill="limegreen">can organize community events and broadcast </tspan>
     <tspan dy="1.2em" x="10" fill="limegreen">emergency information </tspan>
-    <tspan fill="red">based on geo-location data.</tspan>
+    <tspan fill="red">based on geolocation data.</tspan>
   </text>
 </svg>
