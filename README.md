@@ -2,8 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack) [![Website](https://img.shields.io/badge/View-Website-blue)](https://code-and-response.github.io/Project-Sample/)
 
-Water is the natural resource that is most threatened by climate change. Use this starter kit to understand how to technology can improve access to clean drinking water, reduce water waste, protect natural resources and more. Jump-start your own solution with tools and resources from our experts.
-
+Water is the natural resource that is most threatened by climate change, and more than half of the world does not have access to safe sanitation services. Use this starter kit to understand how technology can improve access to clean drinking water, reduce water waste, and protect natural resources. The starter kit provides tools and resources from our experts to help you jump-start your own solution.
 
 ## Contents
 
@@ -17,31 +16,29 @@ Water is the natural resource that is most threatened by climate change. Use thi
 
 ## Short description
 
-This starter kit can help you begin your Call for Code solution to combat clean water and sanitation issues around the world. It pulls together resources to help you and your team use technology to create applications.
+This starter kit can help you begin your Call for Code solution. The starter kit pulls together resources to help you and your team use technology to create applications to tackle clean water and sanitation issues around the world.
 
 ### What's the problem?
 
-According to the [World Health Organization](https://www.who.int/news/item/18-06-2019-1-in-3-people-globally-do-not-have-access-to-safe-drinking-water-unicef-who), 2.2 billion people around the world do not have safely managed drinking water services, 4.2 billion people do not have safely managed sanitation services, and 3 billion lack basic handwashing facilities. These services are critical in preventing the spread of COVID-19 and other diseases. 
-
-Three billion people throughout the world still lack access to safely managed water and sanitation services and basic handwashing facilities at home, which are critical to preventing the spread of COVID-19 and other diseases. The number is much higher in least developed countries, where nearly three-quarters go without.
+According to the [World Health Organization](https://www.who.int/news/item/18-06-2019-1-in-3-people-globally-do-not-have-access-to-safe-drinking-water-unicef-who), 2.2 billion people around the world do not have safely managed drinking water services, 4.2 billion people do not have safely managed sanitation services, and 3 billion people lack basic handwashing facilities. These services are critical in preventing the spread of COVID-19 and other diseases. Even in areas that have these services, there are vast inequalities in the accessibility, availability, and quality of the services. 
 
 UNICEF is urgently appealing for funding and support to reach more children with basic water, sanitation, and hygiene facilities, especially those children who are cut off from safe water because they live in remote areas, in places where water is untreated or polluted, or because they are without a home, living in a slum or on the street.
 
 ### How can technology help?
 
-From intelligent solutions for small farmers to recycling showers, technology can make a significant impact on the availability of water and its consumption. IBM provides various technologies such as IoT, Watson, and blockchain. [IBM Water Management as a Service platform](https://www.ibm.com/thought-leadership/water/) can monitor water resources in real time. Through a cloud-based Water Management as a Service platform, IBM is helping to improve the management of water resources.
+From intelligent solutions for small farmers to recycling showers, technology can make a significant impact on the availability of water and its consumption. IBM provides various technologies such as IoT, Watson, and blockchain. [IBM Water Management as a Service platform](https://www.ibm.com/thought-leadership/water/) can monitor water resources in real time. Through this cloud-based platform, IBM is helping to improve the management of water resources.
 
-Additional ways technology can help include:
+Additional ways technology can help:
 
-- Creating a database and interactive map to help locate and maintain the water points across the counties. ([View the map](https://wmaasp.mybluemix.net/sensor-overview).) 
-- Collecting water usage, breakage, and repair data from boreholes that are monitored by SweetSense.
-- Delivering a detailed view of governance within each of the counties, associated responsibilities, and contact information.
+- Creating a database and [nteractive map](https://wmaasp.mybluemix.net/sensor-overview) to help locate and maintain the water points across the counties
+- Collecting water usage, breakage, and repair data from boreholes that are monitored by SweetSense
+- Delivering a detailed view of governance within each of the counties, associated responsibilities, and contact information
 
 ### The idea
 
-To encourage optimal water choices by consumers and local governments and incentivize water sustainability, we propose devising and implementing an omnichannel API for water data collection and dissemination.
+To encourage optimal water choices by consumers and local governments and incentivize water sustainability, we propose devising and implementing an API for water data collection and dissemination.
 
-This would be a centralized way to access and record:
+This suggestion is a centralized way to access and record:
 
 - Geo-location of sustainable water sources
 - Simplify coordination and funding for water construction projects
