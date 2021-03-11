@@ -1,4 +1,4 @@
-# Call for Code Solution Starter - Clean Water and Sanitation
+# Call for Code solution starter kit: Clean water and sanitation
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack) [![Website](https://img.shields.io/badge/View-Website-blue)](https://code-and-response.github.io/Project-Sample/)
 
@@ -162,7 +162,7 @@ Use the following resources to help you identify a topic and create your own sol
 
 #### Tutorials
 
-- [Build a Water Quality Dashboard with GeoJSON and Node-RED]() - Display USGS Watershed maps on a Node-RED Dashboard with Water Quality Reports. Query the watershed area maps of the Ridgewood, NJ and Atlanta, GA watershed using the USGS Hydro Network-Linked Data Index and plot the water basins and rivers on a Node-RED Dashboard.
+- [Build a water quality dashboard with GeoJSON and Node-RED]() - Display USGS watershed maps on a Node-RED dashboard with water quality reports. Query the watershed area maps of the Ridgewood, New Jersey and Atlanta, Georgia watersheds using the USGS Hydro Network-Linked Data Index, and plot the water basins and rivers on a Node-RED dashboard.
 - [Building integrations with event-driven flows or flows for APIs](https://developer.ibm.com/tutorials/building-integrations-with-app-connect/) - Learn how to create a fully integrated application using IBM App Connect. IBM App Connect, which is a key component of the IBM Cloud Pak for Integration platform (and available for free on IBM Cloud as a SaaS offering), showcases the agility of integrating applications on the cloud.
 - [Analyzing geospatial environment data]() skdjfslkdj
 
