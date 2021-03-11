@@ -5,7 +5,10 @@
      width="800" height="40"
 >
   <text font-size="16" x="10" y="15" style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-    <tspan fill="orange">A researcher </tspan>
+     <tspan fill="orange">Who</tspan>
+    <tspan fill="limegreen">what </tspan>
+    <tspan fill="red">wow</tspan>
+    <tspan dy="1.2em" x="10" fill="orange">A researcher </tspan>
     <tspan fill="limegreen">can track rainwater levels so they can derive insights </tspan>
     <tspan dy="1.2em" x="10" fill="limegreen">and make recommendations to communities and policy makers </tspan>
     <tspan fill="red">in a fraction of the time.</tspan>
