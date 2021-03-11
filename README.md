@@ -50,9 +50,7 @@ This section provides several examples that you and your team can use to jump-st
 
 In the following examples:
 
-* Orange text indicates "who"
-* Green text indicates "what"
-* Red text indicates "where" or "when"
+- ![Orange text indicates "who" Green text indicates "what" Red text indicates "where" or "when"](assets/legend.svg)
 
 #### Idea 1
 
