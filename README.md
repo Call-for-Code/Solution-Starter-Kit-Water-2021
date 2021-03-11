@@ -50,7 +50,7 @@ This section provides several examples that you and your team can use to jump-st
 
 In the following examples:
 
-- ![Orange text indicates "who" Green text indicates "what" Red text indicates "where" or "when"](assets/legend.svg)
+![Orange text indicates "who" Green text indicates "what" Red text indicates "where" or "when"](assets/legend.svg)
 
 #### Idea 1
 
@@ -58,9 +58,9 @@ In the following examples:
 
 Essential technologies needed:
 
-* Verification of identity and community residency
-* Badge system that is based on the number of events held or organized
-* Measuring the impact by event (for example, attendees or sanitation goals)
+- Verification of identity and community residency
+- Badge system that is based on the number of events held or organized
+- Measuring the impact by event (for example, attendees or sanitation goals)
 
 #### Idea 2
 
@@ -68,9 +68,9 @@ Essential technologies needed:
 
 Essential technologies needed:
 
-* Data source of approved contractors, experts, and reviews
-* Workflow to manage requisitions
-* Adding data
+- Data source of approved contractors, experts, and reviews
+- Workflow to manage requisitions
+- Adding data
 
 #### Idea 3
 
@@ -78,9 +78,9 @@ Essential technologies needed:
 
 Essential technologies needed:
 
-* GPS location data for water sources relative to user location
-* Data source to manage GPS data
-* API to access data
+- GPS location data for water sources relative to user location
+- Data source to manage GPS data
+- API to access data
 
 #### Idea 4
 
@@ -88,10 +88,10 @@ Essential technologies needed:
 
 Essential technologies needed:
 
-* Water analysis technology (IoT)
-* Track and trace
-* Publicity of results and water source to report mapping
-* Pollution source remediation and containment
+- Water analysis technology (IoT)
+- Track and trace
+- Publicity of results and water source to report mapping
+- Pollution source remediation and containment
 
 #### Idea 5
 
@@ -99,11 +99,11 @@ Essential technologies needed:
 
 Essential technologies needed:
 
-* Gamification and badging
-* Embedded virtual whiteboard
-* Technology to test clean water
-* Repository for clean water resources and assessment
-* Connect with other communities and learn from water use experiences
+- Gamification and badging
+- Embedded virtual whiteboard
+- Technology to test clean water
+- Repository for clean water resources and assessment
+- Connect with other communities and learn from water use experiences
 
 #### Idea 6
 
@@ -111,9 +111,9 @@ Essential technologies needed:
 
 Essential technologies needed:
 
-* Maps of surface water, aquifers, rainfall, and watersheds relating to user location
-* Lab test results of water quality upstream and downstream
-* Water flow rate sensors to monitor household irrigation
+- Maps of surface water, aquifers, rainfall, and watersheds relating to user location
+- Lab test results of water quality upstream and downstream
+- Water flow rate sensors to monitor household irrigation
 
 #### Idea 7
 
@@ -121,11 +121,11 @@ Essential technologies needed:
 
 Essential technologies needed:
 
-* Sensor data
-* Automated analytical analysis
-* Historic data on local rainfall
-* Historic comparison of color of surface water over time from satellite imagery
-* Rainfall forecast
+- Sensor data
+- Automated analytical analysis
+- Historic data on local rainfall
+- Historic comparison of color of surface water over time from satellite imagery
+- Rainfall forecast
 
 #### Idea 8
 
@@ -133,9 +133,9 @@ Essential technologies needed:
 
 Essential technologies needed:
 
-* Natural language processing
-* Text summarization
-* Document management
+- Natural language processing
+- Text summarization
+- Document management
 
 ## Video
 
@@ -162,62 +162,62 @@ Use the following resources to help you identify a topic and create your own sol
 
 #### Tutorials
 
-* [Build a Water Quality Dasboard with GeoJSON and Node-Red]() lkjsdflksjdfladjs
-* [Building integrations with event-driven flows or flows for APIs](https://developer.ibm.com/tutorials/building-integrations-with-app-connect/) explains how to create a fully integrated application using IBM App Connect. IBM App Connect, which is a key component of the IBM Cloud Pak for Integration platform (and available for free on IBM Cloud as a SaaS offering), showcases the agility of integrating applications on the cloud.
-* [Analyzing geospatial environment data]() skdjfslkdj
+- [Build a Water Quality Dasboard with GeoJSON and Node-Red]() lkjsdflksjdfladjs
+- [Building integrations with event-driven flows or flows for APIs](https://developer.ibm.com/tutorials/building-integrations-with-app-connect/) explains how to create a fully integrated application using IBM App Connect. IBM App Connect, which is a key component of the IBM Cloud Pak for Integration platform (and available for free on IBM Cloud as a SaaS offering), showcases the agility of integrating applications on the cloud.
+- [Analyzing geospatial environment data]() skdjfslkdj
 
 
 #### Platform development
 
 Identify the right environment, software, and runtime to power and scale your solution.
 
-* [Technical library](https://developer.ibm.com/callforcode/technical-library/)
-* [Watson Studio](https://www.ibm.com/cloud/watson-studio)
-* [Watson IoT](https://www.ibm.com/internet-of-things)
-* [Watson Machine Learning](https://www.ibm.com/cloud/machine-learning)
+- [Technical library](https://developer.ibm.com/callforcode/technical-library/)
+- [Watson Studio](https://www.ibm.com/cloud/watson-studio)
+- [Watson IoT](https://www.ibm.com/internet-of-things)
+- [Watson Machine Learning](https://www.ibm.com/cloud/machine-learning)
 
 #### Mapping APIs
 
-* [HERE Technologies API](https://developer.here.com)
-* [Draw GeoJSON maps](http://geojson.io)
-* [Collection of zip code boundrary files for each of the 50 US states](https://github.com/OpenDataDE/State-zip-code-GeoJSON)
+- [HERE Technologies API](https://developer.here.com)
+- [Draw GeoJSON maps](http://geojson.io)
+- [Collection of zip code boundrary files for each of the 50 US states](https://github.com/OpenDataDE/State-zip-code-GeoJSON)
 
 #### Artificial intelligence
 
 Use AI to create apps that accelerate, enhance, and scale the human experience.
 
-* [Technical library](https://developer.ibm.com/callforcode/technical-library/)
+- [Technical library](https://developer.ibm.com/callforcode/technical-library/)
 
 #### Data science
 
 Analyze structured and unstructured data to extract knowledge and insights related to urgent issues.
 
-* [Technical library](https://developer.ibm.com/callforcode/technical-library/)
+- [Technical library](https://developer.ibm.com/callforcode/technical-library/)
 
 #### Internet of Things
 
 Collect and analyze device sensor data to take corrective or preventative action automatically.
 
-* [Integrate Watson IoT with HERE Tracking](https://developer.ibm.com/tutorials/connect-watson-iot-here-tracking-manage-track-devices-real-time/)
-* [Build a hyper-local weather dashboard: Use The Weather Company's APIs to build a Node-RED weather dashboard](https://developer.ibm.com/tutorials/collect-display-hyperlocal-weather-data-from-a-pws-cfc-starter-kit-1/)
-* [Analyze IoT ESP8266 sensor data](https://developer.ibm.com/technologies/iot/tutorials/connect-a-soil-sensor-send-data-to-the-cloud-cfc-starter-kit-1)
+- [Integrate Watson IoT with HERE Tracking](https://developer.ibm.com/tutorials/connect-watson-iot-here-tracking-manage-track-devices-real-time/)
+- [Build a hyper-local weather dashboard: Use The Weather Company's APIs to build a Node-RED weather dashboard](https://developer.ibm.com/tutorials/collect-display-hyperlocal-weather-data-from-a-pws-cfc-starter-kit-1/)
+- [Analyze IoT ESP8266 sensor data](https://developer.ibm.com/technologies/iot/tutorials/connect-a-soil-sensor-send-data-to-the-cloud-cfc-starter-kit-1)
 
 #### Data sets
 
 These public data sets provide information on the problem.
 
-* [USGS watershed maps](https://waterdata.usgs.gov/blog/nldi-intro/)
-* [Aquagenuity API provides water quality reports for many USA zip codes](https://aquagenuity.com/drinking-water-database/drinking-water-database)
-* [A large collection of data sets, topics include climate, weather, and agriculture](https://github.com/awesomedata/awesome-public-datasets)
-* [Data collections that include atmosphere, ocean, land, and flood data, both current and historical](https://www.nccs.nasa.gov/services/data-collections)
-* [Platform for organizing and presenting variables and indicators on water resources and their use](http://www.fao.org/aquastat/statistics/query/index.html) 
+- [USGS watershed maps](https://waterdata.usgs.gov/blog/nldi-intro/)
+- [Aquagenuity API provides water quality reports for many USA zip codes](https://aquagenuity.com/drinking-water-database/drinking-water-database)
+- [A large collection of data sets, topics include climate, weather, and agriculture](https://github.com/awesomedata/awesome-public-datasets)
+- [Data collections that include atmosphere, ocean, land, and flood data, both current and historical](https://www.nccs.nasa.gov/services/data-collections)
+- [Platform for organizing and presenting variables and indicators on water resources and their use](http://www.fao.org/aquastat/statistics/query/index.html) 
 
 #### NGO documents
 
 These are the go-to documents for measuring impact and progress against the key issue.
 
-* [Sendai Framework Priority 4: Build Back Better](https://www.youtube.com/watch?v=mRTlS3ZfljM)
-* [Open data in the agricultural sector](https://www.europeandataportal.eu/en/highlights/open-data-agricultural-sector)
+- [Sendai Framework Priority 4: Build Back Better](https://www.youtube.com/watch?v=mRTlS3ZfljM)
+- [Open data in the agricultural sector](https://www.europeandataportal.eu/en/highlights/open-data-agricultural-sector)
 
 ## Contributing
 
@@ -225,15 +225,15 @@ Please read about [contributing](CONTRIBUTING.md) to this repository for details
 
 ## Contributors
 
-* Mateo Bozzini
-* Muralidhar Chavan
-* Christoph Gorder - Expert
-* Romeo Kienzler
-* Mark Meiklejohn
-* David O'Hara
-* Karla Readshaw
-* Niraj Swarmi - Expert
-* John Walicki
+- Mateo Bozzini
+- Muralidhar Chavan
+- Christoph Gorder - Expert
+- Romeo Kienzler
+- Mark Meiklejohn
+- David O'Hara
+- Karla Readshaw
+- Niraj Swarmi - Expert
+- John Walicki
 
 <a href="https://github.com/Call-for-Code/Solution-Starter-Kit-Water-2021/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Solution-Starter-Kit-Water-2021" />
