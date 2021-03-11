@@ -209,7 +209,10 @@ These public data sets provide information on the problem.
 - [Aquagenuity API provides water quality reports for many USA zip codes](https://aquagenuity.com/drinking-water-database/drinking-water-database)
 - [A large collection of data sets, topics include climate, weather, and agriculture](https://github.com/awesomedata/awesome-public-datasets)
 - [Data collections that include atmosphere, ocean, land, and flood data, both current and historical](https://www.nccs.nasa.gov/services/data-collections)
-- [Platform for organizing and presenting variables and indicators on water resources and their use](http://www.fao.org/aquastat/statistics/query/index.html) 
+- [Platform for organizing and presenting variables and indicators on water resources and their use](http://www.fao.org/aquastat/statistics/query/index.html)
+- [Met Office data feeds in a format that is suitable for application developers.](https://www.metoffice.gov.uk/services/data/datapoint)
+- [Met Office on AWS Earth](https://registry.opendata.aws/uk-met-office/)
+- [Yahoo Weather API for your apps](https://developer.yahoo.com/weather/)
 
 #### NGO documents
 
