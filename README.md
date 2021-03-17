@@ -227,7 +227,7 @@ Please read about [contributing](CONTRIBUTING.md) to this repository for details
 
 ## Contributors
 
-- Mateo Bozzini
+- [Mateo Bozzini](https://developer.ibm.com/profiles/mbozzini/)
 - [Muralidhar Chavan](https://developer.ibm.com/profiles/muralidhar.chavan/)
 - [Christoph Gorder](https://www.linkedin.com/in/christoph-gorder-0745a2/) - Expert
 - [Romeo Kienzler](https://developer.ibm.com/profiles/romeo.kienzler/)
