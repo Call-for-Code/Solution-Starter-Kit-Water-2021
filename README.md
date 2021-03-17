@@ -228,14 +228,14 @@ Please read about [contributing](CONTRIBUTING.md) to this repository for details
 ## Contributors
 
 - Mateo Bozzini
-- Muralidhar Chavan
-- Christoph Gorder - Expert
-- Romeo Kienzler
-- Mark Meiklejohn
-- David O'Hara
-- Karla Readshaw
-- Niraj Swarmi - Expert
-- John Walicki
+- [Muralidhar Chavan](https://developer.ibm.com/profiles/muralidhar.chavan/)
+- [Christoph Gorder](https://www.linkedin.com/in/christoph-gorder-0745a2/) - Expert
+- [Romeo Kienzler](https://developer.ibm.com/profiles/romeo.kienzler/)
+- [Dr. Mark L. Meiklejohn](https://www.linkedin.com/in/markmeiklejohn/)
+- [Dr. David O'Hara](https://www.linkedin.com/in/david-o-hara/)
+- [Karla Readshaw](https://www.linkedin.com/in/karlareadshaw/)
+- [Niraj Swami](https://www.linkedin.com/in/nirajswami/) - Expert
+- [John Walicki](https://developer.ibm.com/profiles/walicki/)
 
 <a href="https://github.com/Call-for-Code/Solution-Starter-Kit-Water-2021/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Solution-Starter-Kit-Water-2021" />
