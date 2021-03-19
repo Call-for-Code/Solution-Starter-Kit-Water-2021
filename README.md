@@ -164,7 +164,7 @@ Use the following resources to help you identify a topic and create your own sol
 
 - [Build a water quality dashboard with GeoJSON and Node-RED](https://developer.ibm.com/tutorials/build-a-water-quality-dashboard/) - Display USGS watershed maps on a Node-RED dashboard with water quality reports. Query the watershed area maps of the Ridgewood, New Jersey and Atlanta, Georgia watersheds using the USGS Hydro Network-Linked Data Index, and plot the water basins and rivers on a Node-RED dashboard.
 - [Building integrations with event-driven flows or flows for APIs](https://developer.ibm.com/tutorials/building-integrations-with-app-connect/) - Learn how to create a fully integrated application using IBM App Connect. IBM App Connect, which is a key component of the IBM Cloud Pak for Integration platform (and available for free on IBM Cloud as a SaaS offering), showcases the agility of integrating applications on the cloud.
-- [Analyzing geospatial environment data]() Learn how to use [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/), the [ElyraAI](https://elyra.readthedocs.io/en/latest/) Pipeline Editor and the [CLAIMED](https://arxiv.org/abs/2103.03281) component [library](https://github.com/elyra-ai/component-library) to use open climate data for computing future trends
+- [Analyzing geospatial environment data](https://developer.ibm.com/tutorials/analyzing-geospatial-environment-data/) Learn how to use [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/), the [ElyraAI](https://elyra.readthedocs.io/en/latest/) Pipeline Editor and the [CLAIMED](https://arxiv.org/abs/2103.03281) component [library](https://github.com/elyra-ai/component-library) to use open climate data for computing future trends
 
 #### Platform development
 
