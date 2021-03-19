@@ -1,6 +1,6 @@
 # Call for Code solution starter kit: Clean water and sanitation
 
-[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack) [![Website](https://img.shields.io/badge/View-Website-blue)](https://code-and-response.github.io/Project-Sample/)
+[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack) [![Website](https://img.shields.io/badge/View-Website-blue)](https://developer.com/callforcode/get-started/climate-change/clean-water)
 
 Water is the natural resource that is most threatened by climate change, and more than half of the world does not have access to safe sanitation services. Use this starter kit to understand how technology can improve access to clean drinking water, reduce water waste, and protect natural resources. The starter kit provides tools and resources from our experts to help you jump-start your own solution.
 
