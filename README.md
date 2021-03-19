@@ -227,15 +227,16 @@ Please read about [contributing](CONTRIBUTING.md) to this repository for details
 
 ## Contributors
 
-- [Mateo Bozzini](https://developer.ibm.com/profiles/mbozzini/)
-- [Muralidhar Chavan](https://developer.ibm.com/profiles/muralidhar.chavan/)
-- [Christoph Gorder](https://www.linkedin.com/in/christoph-gorder-0745a2/) - Expert
-- [Romeo Kienzler](https://developer.ibm.com/profiles/romeo.kienzler/)
-- [Dr. Mark L. Meiklejohn](https://www.linkedin.com/in/markmeiklejohn/)
-- [Dr. David O'Hara](https://www.linkedin.com/in/david-o-hara/)
-- [Karla Readshaw](https://www.linkedin.com/in/karlareadshaw/)
-- [Niraj Swami](https://www.linkedin.com/in/nirajswami/) - Expert
-- [John Walicki](https://developer.ibm.com/profiles/walicki/)
+- [Dr. David O’Hara](https://www.linkedin.com/in/david-o-hara/), Chair and Professor of Philosophy and Environmental Studies, and Director of Sustainability and Environmental Studies, Augustana University
+- [Dr. Mark L. Meiklejohn](https://www.linkedin.com/in/markmeiklejohn/), Senior Software Engineer, JP Morgan (Suisse)
+- [Karla Readshaw](https://www.linkedin.com/in/karlareadshaw/), Program Manager, Education at Intuit  
+- [Romeo Kienzler](https://developer.ibm.com/profiles/romeo.kienzler/), IBM Developer Advocate, Data science 
+- [Muralidhar Chavan](https://developer.ibm.com/profiles/muralidhar.chavan/), IBM Developer Advocate, Artificial Intelligence 
+- [Mateo Bozzini](https://developer.ibm.com/profiles/mbozzini/), IBM Developer Advocate, Platform Development
+- [John Walicki](https://developer.ibm.com/profiles/walicki/), IBM Developer Advocate, IoT and Edge
+- [Niraj Swami](https://www.linkedin.com/in/nirajswami/), Conservation Technology Strategy & Enablement, The Nature Conservancy
+- [Christoph Gorder](https://www.linkedin.com/in/christoph-gorder-0745a2/), Chief Global Water Officer, charity: water
+
 
 <a href="https://github.com/Call-for-Code/Solution-Starter-Kit-Water-2021/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Solution-Starter-Kit-Water-2021" />
