@@ -11,7 +11,6 @@ Water is the natural resource that is most threatened by climate change, and mor
 1. [The architecture](#the-architecture)
 1. [Getting started](#getting-started)
 1. [Contributing](#contributing)
-1. [Versioning](#versioning)
 1. [Acknowledgments](#acknowledgments)
 
 ## Short description
@@ -245,8 +244,6 @@ Please read about [contributing](CONTRIBUTING.md) to this repository for details
 ## License
 
 This starter kit is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details
-
-## Acknowledgments
 
 - [Charity Water](https://www.charitywater.org/global-water-crisis)
 - [Nature Conservancy](https://www.nature.org/en-us/what-we-do/our-priorities/provide-food-and-water-sustainably/)
